@@ -28,7 +28,7 @@ Before running the application, ensure you have:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Ashishwayachal12/airlinemanagementsystem.git>
 2.Open the project in your IDE.(ex:-NetBeans)
 
 ## Ensure the database is configured and running.
@@ -152,10 +152,10 @@ CREATE TABLE cancel (
 
 select * from cancel;
 
+4. Compile and run the project.
+   ```bash
+   git clone < run in Login page>
 
-4.Compile and run the project.
-     ```bash
-     run in Login page
 
 ## Screenshots
 1. Login Page :user name:Ashish and password: Ashish@99
